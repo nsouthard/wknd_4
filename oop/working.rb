@@ -37,6 +37,5 @@ calculator = FancyCalculator.new
 puts calculator.add(2,5)
 puts calculator.subtract(2,5)
 puts calculator.multiply(2,5)
-puts calculator.divide(18,6)
-puts calculator.square_root(25)
-
+puts calculator.divide(12,6)
+puts calculator.square_root(9)
